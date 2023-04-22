@@ -1468,7 +1468,7 @@ input::-moz-focus-inner {
   font-family: "metropolis-regular", sans-serif;
   margin: 0;
   position: absolute;
-  top: 50%;
+  top: 5%;
   right: 6.6rem;
   -webkit-transform: translate3d(0, -50%, 0);
   -ms-transform: translate3d(0, -50%, 0);
