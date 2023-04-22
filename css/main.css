@@ -1247,8 +1247,8 @@ input::-moz-focus-inner {
 }
 
 .home-logo img {
-  width: 100px;
-  height: 25px;
+  width: 1080px;
+  height: 440px;
 }
 
 
@@ -1312,7 +1312,7 @@ input::-moz-focus-inner {
 }
 
 .home-content__textx p {
-  font-size: 5rem;
+  font-size: 1rem;
   line-height: 2;
   color: rgba(255, 255, 255, 1);
   margin-top: 6.6rem;
