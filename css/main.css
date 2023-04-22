@@ -94,7 +94,7 @@ a:active {
  * # typography & general theme styles - (_document-setup.scss)
  * 
  * ------------------------------------------------------------------- */
-h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+h1, h2, h3, h6, .h1, .h2, .h3, .h6 {
   font-family: "domine-regular", serif;
   color: #000000;
   font-style: normal;
@@ -102,20 +102,23 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   text-rendering: optimizeLegibility;
 }
 
-h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
+h4, h5, .h4, .h5 {
+  font-family: "myanmar-text";
+  color: #000000;
+  font-style: normal;
+  font-weight: bold;
+  text-rendering: optimizeLegibility;
+}
+
+h1, .h1, h2, .h2, h3, .h3 {
   margin-top: 6rem;
   margin-bottom: 1.8rem;
 }
 
 @media only screen and (max-width:600px) {
-  h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
+  h1, .h1, h2, .h2, h3 {
     margin-top: 5.1rem;
   }
-}
-
-h5, .h5, h6, .h6 {
-  margin-top: 4.2rem;
-  margin-bottom: 1.5rem;
 }
 
 @media only screen and (max-width:600px) {
