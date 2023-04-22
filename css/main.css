@@ -1311,7 +1311,7 @@ input::-moz-focus-inner {
   margin-right: 15%;
 }
 
-.huehuehue-our__textx p {
+.huehuehue-our__textx h2, h4 {
   font-size: 2rem;
   line-height: 2;
   color: rgba(255, 255, 255, 1);
