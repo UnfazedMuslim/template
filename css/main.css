@@ -1321,6 +1321,8 @@ input::-moz-focus-inner {
   word-break: break-all;
   animation: fadeIn 3s;
   white-space: nowrap;
+  -webkit-animation-duration: 3s;
+  animation-duration: 3s;
 }
 
 .home-content__subscribe {
