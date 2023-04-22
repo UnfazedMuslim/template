@@ -1311,18 +1311,6 @@ input::-moz-focus-inner {
   margin-right: 15%;
 }
 
-.huehuehue-our__textx h2 {
-  font-size: 3rem;
-  line-height: 2;
-  color: rgba(255, 255, 255, 1);
-  margin-top: 6.6rem;
-  margin-right: 5%;
-  margin-left: 5%;
-  animation: fadeIn 3s;
-  -webkit-animation-duration: 3s;
-  animation-duration: 3s;
-}
-
 .huehuehue-our__textx h4 {
   font-size: 2rem;
   line-height: 2;
