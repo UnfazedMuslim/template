@@ -1288,29 +1288,6 @@ input::-moz-focus-inner {
   top: 50%;
 }
 
-.home-content h4 {
-  font-family: "myanmar-text";
-  font-size: 1.4rem;
-  line-height: 1.286;
-  letter-spacing: .3rem;
-  color: white;
-  margin-top: 0;
-  margin-bottom: 3rem;
-  padding-left: 55px;
-  position: relative;
-}
-
-.home-content h4::before {
-  content: "";
-  display: block;
-  background-color: rgba(236, 0, 140, 0.6);
-  width: 40px;
-  height: 1px;
-  position: absolute;
-  left: 0;
-  top: 50%;
-}
-
 .home-content h1 {
   font-size: 6.4rem;
   line-height: 1.219;
@@ -1330,6 +1307,14 @@ input::-moz-focus-inner {
   font-size: 1.8rem;
   line-height: 2;
   color: rgba(255, 255, 255, 0.3);
+  margin-top: 6.6rem;
+  margin-right: 15%;
+}
+
+.home-content__textx p {
+  font-size: 2rem;
+  line-height: 2;
+  color: rgba(255, 255, 255, 0.9);
   margin-top: 6.6rem;
   margin-right: 15%;
 }
