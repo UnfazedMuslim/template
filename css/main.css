@@ -1324,6 +1324,19 @@ input::-moz-focus-inner {
   animation-duration: 3s;
 }
 
+.huehuehue-our__textx p {
+  font-family: Arial;
+  font-size: 2rem;
+  line-height: 2;
+  color: rgba(255, 255, 255, 1);
+  margin-top: 6.6rem;
+  margin-right: 5%;
+  margin-left: 5%;
+  animation: fadeIn 3s;
+  -webkit-animation-duration: 3s;
+  animation-duration: 3s;
+}
+
 .home-content__subscribe {
   max-width: 420px;
   margin: 4.2rem 0 0 0;
