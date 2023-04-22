@@ -1316,7 +1316,8 @@ input::-moz-focus-inner {
   line-height: 2;
   color: rgba(255, 255, 255, 1);
   margin-top: 6.6rem;
-  margin-right: 15%;
+  margin-right: 5%;
+  margin-left: 5%;
 }
 
 .home-content__subscribe {
