@@ -1320,6 +1320,7 @@ input::-moz-focus-inner {
   margin-left: 5%;
   word-break: break-all;
   animation: fadeIn 3s;
+  white-space: nowrap;
 }
 
 .home-content__subscribe {
