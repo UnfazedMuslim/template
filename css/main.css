@@ -1467,8 +1467,8 @@ input::-moz-focus-inner {
   list-style: none;
   font-family: "metropolis-regular", sans-serif;
   margin: 0;
-  position: absolute;
-  top: 5%;
+  position: static;
+  top: 50%;
   right: 6.6rem;
   -webkit-transform: translate3d(0, -50%, 0);
   -ms-transform: translate3d(0, -50%, 0);
